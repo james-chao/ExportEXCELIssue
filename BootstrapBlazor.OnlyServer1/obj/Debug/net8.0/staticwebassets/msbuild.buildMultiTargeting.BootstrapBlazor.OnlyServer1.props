@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BootstrapBlazor.OnlyServer1.props" />
+</Project>
